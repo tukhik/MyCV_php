@@ -1,0 +1,19 @@
+.form {
+    margin-top: 20%;
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+.form input {
+    height: 20px;
+    margin: 10px;
+}
+.form form {
+    text-align: center
+}
+
+body {
+    background: linear-gradient(241deg, rgba(102,102,102,1) 0%, rgba(255,255,255,1) 75%);
+}

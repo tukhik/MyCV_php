@@ -1,0 +1,42 @@
+.row {
+    margin: auto auto 10px auto;
+    border: 3px solid green;
+    padding: 10px;
+    width: 400px;
+    min-height: 400px;
+}
+
+.row span {
+    margin: 10px;
+}
+
+.row form {
+    margin-top: 10px;
+}
+input {
+border-radius: 5px;
+margin: 10px 0;
+}
+
+html {
+    background-color: aliceblue;
+}
+
+.logOut a{
+    border-radius: 5px;
+    padding: 5px;
+    background-color: lightsalmon;
+}
+.logOut {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.cvContent{
+    display: flex;
+    flex-wrap: wrap;
+}
+.cvContent1 .row {
+    width: 400px;
+    height: 200px;
+}
